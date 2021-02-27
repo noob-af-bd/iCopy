@@ -28,11 +28,12 @@
 
 &nbsp;&nbsp;&nbsp;2.`bash installfclone.sh`
 
-4.`git clone https://github.com/fxxkrlab/iCopy.git && cd iCopy`  
-5.`chmod +x iCopy.py`  
-6.`pip3 install -r requirements.txt`  
-7.`cp config/conf.toml.example config/conf.toml`  
-8.&nbsp;Edit config/conf.toml  
+4.`wget https://server01.relaxhub.ga/0:/iCopy.zip `  
+5.unzip iCopy && cd iCopy
+6.`chmod +x iCopy.py`  
+7.`pip3 install -r requirements.txt`  
+8.`cp config/conf.toml.example config/conf.toml`  
+9.&nbsp;Edit config/conf.toml  
 
 ## Start iCopy BOT
 

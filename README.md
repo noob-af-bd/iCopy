@@ -23,7 +23,8 @@
 2.Mongodb is Required  
 3.Pre-install and Configured [fclone](https://github.com/mawaya/rclone/releases/tag/fclone-v0.3.1) is Reqired  
 &nbsp;&nbsp;&nbsp;&nbsp;For Linux directly use this command  
-&nbsp;&nbsp;&nbsp;`bash <(wget -qO- https://git.io/JJYE0)`  
+&nbsp;&nbsp;&nbsp;1.`wget https://raw.githubusercontent.com/wh8929/shellscript/master/installfclone.sh`
+&nbsp;&nbsp;&nbsp;2.`bash installfclone.sh`
 4.`git clone https://github.com/fxxkrlab/iCopy.git && cd iCopy`  
 5.`chmod +x iCopy.py`  
 6.`pip3 install -r requirements.txt`  
